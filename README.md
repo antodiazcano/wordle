@@ -14,6 +14,4 @@ In the file ***wordle.py*** is the main code, ***_draw.py*** is for drawing the 
 
 To play a game we just have to create the object and write 1 if we have won and 0 otherwise and tell the response vector we obtain (0 means grey, 1 yellow and 2 green). One example is the following:
 
-
-![image](https://github.com/antodiazcano/wordle/assets/114878742/bbe3651c-bf6a-43f7-8310-9fe85207e512)
-
+![image](https://github.com/antodiazcano/wordle/assets/114878742/10b383e0-04bc-4cf8-adf6-00dea9e10cc4)
