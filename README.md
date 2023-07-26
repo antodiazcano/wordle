@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains the code for playing **Wordle** with a heuristic that consists on selecting the word that gives us more **information**. It is based on this [video]([https://www.google.com](https://www.youtube.com/watch?v=v68zYyaEmEA)https://www.youtube.com/watch?v=v68zYyaEmEA) of 3Blue1Brown, which explains all the maths behind.
+This repo contains the code for playing **Wordle** with a heuristic that consists on selecting the word that gives us more **information**. It is based on this [video]([https://www.google.com](https://www.youtube.com/watch?v=v68zYyaEmEA) of 3Blue1Brown, which explains all the maths behind.
 
 After simulating all possible games (2315), it resolves them with a mean of 3.58 attempts and a standard deviation of 0.82 attempts. More precisely, in the following table the first row represents the number of attempts and the second row how many games have been won in that attempts.
 
