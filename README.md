@@ -8,7 +8,7 @@ After simulating all possible games (2315), it resolves them with a mean of 3.58
 | - | --- | --- | --- | --- | -- | - | - |
 | 1 | 146 | 959 | 978 | 188 | 34 | 6 | 3 |
 
-In the file ***wordle.py*** is the main code, ***_draw.py*** is for drawing the board and ***possible_words.txt*** contains all possible words that have appeared in the game. The folder ***others*** contains the code for simulating all games and for selecting the first word which gives us more information (note that the first word is always the same and after this the game changes in function of the response vector we obtain).
+In the file ***wordle.py*** is the main code, ***_draw.py*** is for drawing the board, ***usage_example.ipynb*** contains an example of a game and ***possible_words.txt*** contains all possible words that have appeared in the game. The folder ***others*** contains the code for simulating all games and for selecting the first word which gives us more information (note that the first word is always the same and after this the game changes in function of the response vector we obtain).
 
 # How to play
 
