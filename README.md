@@ -29,5 +29,5 @@ Just execute in the terminal:
 
 # Example
 
-![alt text](images/terminal.png)
+![alt text](images/game.png)
 ![alt text](images/real_game.png)
