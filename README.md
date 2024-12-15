@@ -8,7 +8,9 @@ Basically what it does is:
 3. If we win, it is finished. Otherwise, update the list of possible remaining words and go to 1.
 
 The entropy of a word $w$ is calculated as
+
 $$E(w)=-\sum_{v\in V}p_w(v)\log_2(p_w(v))$$
+
 where $V$ is the set of all possible output vectors $v$. The probability of a vector $v$ introducing the word $w$ is calculated as the number of times we would obtain $v$ introducing all possible remaining words if $w$ is the correct word divided by the total number of possible remaining words.
 
 # Results
